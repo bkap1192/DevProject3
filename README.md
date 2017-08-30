@@ -1,2 +1,2 @@
-# DevProject3........1....2....3
+# DevProject3..
 DevProject3
